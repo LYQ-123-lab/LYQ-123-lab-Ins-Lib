@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "a31d57671ce57872",
+    "type": "split",
+    "children": [
+      {
+        "id": "30369f657ccbb830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c75a6f16ef13262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ins-Lib/raw/2026-10-27-批次01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-27-批次01"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79b28843cc423741",
+    "type": "split",
+    "children": [
+      {
+        "id": "cac40093734ab6a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c5588d377b3d916",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "77069d820d72b441",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2c996c2f2bd141de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dae56425c278bbae",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9e81b1aa53af95b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0be2f308c27c0956",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ins-Lib/raw/2026-10-27-批次01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "c3e8a821a75031cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ins-Lib/raw/2026-10-27-批次01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "ddfd06f4dd4e56c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "15242bf0ba83c262",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "66c4b06f6e72a4ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ins-Lib/raw/2026-10-27-批次01.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "4c75a6f16ef13262",
+  "lastOpenFiles": [
+    "Ins-Lib/wiki/ideas/AI给答案之后谁来核实.md",
+    "Ins-Lib/wiki/ideas/一个人两小时复刻平台意味着什么.md",
+    "Ins-Lib/wiki/views/认知投降与AI依赖.md",
+    "Ins-Lib/wiki/cases/卡帕西两小时复刻YouTube.md",
+    "Ins-Lib/wiki/trends/AI搜索侵蚀搜索入口与媒体流量.md",
+    "Ins-Lib/raw/2026-11-04-批次01.md",
+    "Ins-Lib/raw/2026-10-27-批次02.md",
+    "Vibe-Note/wiki/Health/三手烟.md",
+    "Vibe-Note/raw/屏幕截图 2026-10-25 174817.png",
+    "Style-Lib/wiki/风格画像.md",
+    "Ins-Lib/raw/2026-10-27-批次01.md",
+    "Ins-Lib/wiki/ideas/AI生成内容的授权战.md",
+    "Ins-Lib/wiki/ideas/AI音频简报模式能否在中国复制.md",
+    "Ins-Lib/wiki/cases/胖东来人格尊严补偿.md",
+    "Ins-Lib/wiki/views/反蒸馏与AI知识版权争议.md",
+    "Ins-Lib/wiki/topics/存储芯片上行周期.md",
+    "Ins-Lib/wiki/topics/AI基础设施投资狂潮.md",
+    "Ins-Lib/wiki/cases/AI音频简报成为阿根廷头号新闻App.md",
+    "Ins-Lib/wiki/views/地方新闻危机与政策救济.md",
+    "Ins-Lib/wiki/views/新闻业向Substack与创作者迁移.md",
+    "Ins-Lib/wiki/topics/AIGC短剧与内容生产工业化.md",
+    "Ins-Lib/wiki/topics/AI平台与新闻业的内容博弈.md",
+    "Ins-Lib/wiki/log.md",
+    "Ins-Lib/wiki/index.md",
+    "Ins-Lib/wiki/选题池.md",
+    "Ins-Lib/wiki/处理台账.md",
+    "Ins-Lib/wiki/查询手册.md",
+    "Ins-Lib/wiki/ideas",
+    "Ins-Lib/wiki/cases",
+    "Ins-Lib/wiki/views",
+    "Ins-Lib/wiki/trends",
+    "Ins-Lib/wiki/topics"
+  ]
+}
